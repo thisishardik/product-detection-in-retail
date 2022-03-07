@@ -3,3 +3,4 @@ names:
 nc: 1
 train: /content/datasets/shelf-auditing-for-retail-v2.1-1/train/images
 val: /content/datasets/shelf-auditing-for-retail-v2.1-1/valid/images
+
